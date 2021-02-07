@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Cardoso-topdev/first-package/issues"
   },
+  "dependencies": {
+    "@octo-org/octo-app": "1.0.0"
+  },
   "homepage": "https://github.com/Cardoso-topdev/first-package#readme"
 }
