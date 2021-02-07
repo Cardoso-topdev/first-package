@@ -1,0 +1,22 @@
+{
+  "name": "first-package",
+  "version": "1.0.0",
+  "description": "First github package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cardoso-topdev/first-package.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "Oscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cardoso-topdev/first-package/issues"
+  },
+  "homepage": "https://github.com/Cardoso-topdev/first-package#readme"
+}
