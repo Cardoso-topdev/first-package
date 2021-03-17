@@ -1,7 +1,7 @@
 {
   "name": "first-package",
   "version": "1.0.0",
-  "description": "First github package",
+  "description": "This is first package",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
@@ -13,13 +13,10 @@
   "keywords": [
     "package"
   ],
-  "author": "Oscar",
+  "author": "Oscar Cardoso",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Cardoso-topdev/first-package/issues"
-  },
-  "dependencies": {
-    "@octo-org/octo-app": "1.0.0"
   },
   "homepage": "https://github.com/Cardoso-topdev/first-package#readme"
 }
